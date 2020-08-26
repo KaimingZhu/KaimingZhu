@@ -1,5 +1,5 @@
 ### Hi, I am KaiMing Zhu, Nice to meet you.👋
-- 👨🏻‍🎓 I’m a student major in Computer Science.
+- 👨🏻‍🎓 I’m a student majoring in Computer Science.
   - 🎓 Bacholor Degree, North Eastern University, China (2015 - 2019)
   - 👨🏻‍🎓 Master Student, Sun Yat-Sen University, China (2019 - now)
 - 🔬 My Research interest is about **Privacy of Federated Learning**
