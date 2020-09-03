@@ -1,4 +1,4 @@
-### Hi, I am KaiMing Zhu, Nice to meet you.👋
+### 👋 Hi, I am KaiMing Zhu, Nice to meet you.
 - 👨🏻‍🎓 I’m a student majoring in Computer Science.
   - 🎓 Bachelor Degree, North Eastern University, China (2015 - 2019)
   - 👨🏻‍🎓 Master Student, Sun Yat-Sen University, China (2019 - now)
