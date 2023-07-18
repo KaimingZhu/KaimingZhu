@@ -1,7 +1,7 @@
 ### 👋 Hi, I am KaiMing Zhu, Nice to meet you.
 - 👨‍🔬 **Recent Status:** Research Assistance(RA) in Sun Yat-Sen University, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm).
 - 🔬 **Research interest:** Robust and Privacy-Preserving Federated Learning, Privacy-Preserving Machine Learning.
-- 💻 **Programming Preference:** Python, also have developing experience on C/C++, C#(UWP), Objective-C & Swift(iOS).
+- 💻 **Programming Preference:** Python, also have developing experience on C/C++, UWP(C#), iOS(Objective-C & Swift).
 - 💬 **Language Preference:** Madarin, we can also communicate with Cantonese and English.
 - 📫 **How to Reach me:** [kaiming_zhu@163.com](mailto:kaiming_zhu@163.com).
 - 📜 **Experience Snapshot**:
