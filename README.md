@@ -5,6 +5,6 @@
 - 💬 **Language Preference:** Madarin, Cantonese and English.
 - 📫 **How to Reach me:** [kaiming_zhu@163.com](mailto:kaiming_zhu@163.com).
 - 📜 **Experience Snapshot**:
-  - 🍎 iOS Research & Develop Engineer, Global E-Commerce Platform, Bytedance Inc., 2021 - 2023.
+  - 🍎 iOS Research & Develop Engineer, Global E-Commerce Platform, Bytedance Ltd., 2021 - 2023.
   - 👨🏻‍🎓 Master Degree of Computer Science, Sun Yat-Sen University, China, 2019 - 2021.
   - 🎓 Bachelor Degree of Computer Science and Technology, North Eastern University, China, 2015 - 2019.
