@@ -9,5 +9,5 @@
   - 👨🏻‍🎓 Master Degree of Computer Science, Sun Yat-Sen University, China, 2019 - 2021.
   - 🎓 Bachelor Degree of Computer Science and Technology, North Eastern University, China, 2015 - 2019.
 
-# Whats new
+#### 📰 Whats new
 [2024-04-17]: I will pursue my Doctor degree in Sun Yat-sen University since September, 2024.
