@@ -10,4 +10,4 @@
   - 🎓 Bachelor Degree of Computer Science and Technology, North Eastern University, China, 2015 - 2019.
 
 #### 📰 Whats new
-[2024-04-17]: I will pursue my Doctor degree in Sun Yat-sen University since September, 2024.
+**[2024-04-17]**: I will pursue my Doctor degree in Sun Yat-sen University since September, 2024.
