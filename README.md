@@ -6,8 +6,8 @@
 - 📫 **How to Reach me:** [kaiming_zhu@163.com](mailto:kaiming_zhu@163.com).
 - 📜 **Experience Snapshot**:
   - 🍎 iOS Research & Develop Engineer, Global E-Commerce Platform, Bytedance Ltd., 2021 - 2023.
-  - 👨🏻‍🎓 Master Degree of Computer Science, Sun Yat-Sen University, China, 2019 - 2021.
-  - 🎓 Bachelor Degree of Computer Science and Technology, North Eastern University, China, 2015 - 2019.
+  - 👨🏻‍🎓 Master Degree of Computer Science, Sun Yat-Sen University, China, 2019 - 2021. Supervised by [Prof. Wuhui Chen](https://sse.sysu.edu.cn/teacher/159).
+  - 🎓 Bachelor Degree of Computer Science and Technology, North Eastern University, China, 2015 - 2019. Supervised by [Prof. Yin Zhang](http://faculty.neu.edu.cn/zhangyin/).
 
 #### 📰 Whats new
 **[2024-04-17]**: I will pursue my Doctor degree in Sun Yat-sen University since September, 2024.
