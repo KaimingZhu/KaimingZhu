@@ -1,25 +1,13 @@
 ## 👋 Hi, I am KaiMing Zhu, Nice to meet you :)
-#### 👨‍🔬 Recent Status
-Research Assistance(RA), in School of Intelligent System and Engineering, Sun Yat-Sen University, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm).
-
-#### 🔬 Research interest
-- Robust and Privacy-Preserving Federated Learning and Machine Learning. 
-- You could [find more details here](https://www.researchgate.net/profile/Kaiming-Zhu).
+> You could visit my [personal website](https://kaimingzhu.github.io), where I've provided a brief self-introduction.
+#### 👨‍🔬 Who am I?
+- Research Assistance(RA), in School of Intelligent System and Engineering, Sun Yat-Sen University, supervised by [Prof. Junbo Wang](https://ise.sysu.edu.cn/teacher/teacher02/1364591.htm).
+- I am interested in Robust and Privacy-Preserving Federated Learning and Machine Learning. You could [find more details here](https://www.researchgate.net/profile/Kaiming-Zhu).
 
 #### 💻 Programming Preference
 - Python, C/C++.
 - I also have experience in Front-End Development, including Windows(UWP, QT), iOS(Objective-C & Swift).
 
-#### 📫 How to Reach me
-[zhukm3@mail2.sysu.edu.cn](mailto:zhukm3@mail2.sysu.edu.cn).
-
-#### 💬 Language Preference
-Madarin, Cantonese and English.
-
-#### 📜 Experience Snapshot
-- 🍎 iOS Research & Develop Engineer, Global E-Commerce Platform, Bytedance Ltd., 2021 - 2023.
-- 🎓 M.S. Degree of Computer Science, Sun Yat-Sen University, China, 2019 - 2021.
-- 🎓 B.E. Degree of Computer Science and Technology, North Eastern University, China, 2015 - 2019.
-
-## 📰 Whats new
-- **[2024-04-17]**: I will pursue my Doctor degree in Sun Yat-sen University since September, 2024.
+#### 📫 How to reach me
+- [zhukm3@mail2.sysu.edu.cn](mailto:zhukm3@mail2.sysu.edu.cn).
+- Both Madarin, Cantonese and English is preferred.
