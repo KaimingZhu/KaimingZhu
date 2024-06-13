@@ -11,4 +11,4 @@
 
 #### 📫 How to reach me
 - [zhukm3@mail2.sysu.edu.cn](mailto:zhukm3@mail2.sysu.edu.cn).
-- I can communicate with Both Madarin and English.
+- I can communicate with both Madarin and English.
